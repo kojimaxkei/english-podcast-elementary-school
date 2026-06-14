@@ -5,6 +5,14 @@
     <link>https://kojimaxkei.github.io/english-podcast-elementary-school/</link>
     <description>家庭学習用英語教材</description>
 
+     <item>
+      <title>基本例文28</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast-elementary-school/basic28.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast-elementary-school/basic28.mp3
+      </guid>
+    </item>
     <item>
       <title>第8週 瞬間英作文</title>
       <enclosure
