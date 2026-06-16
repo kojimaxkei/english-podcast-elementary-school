@@ -6,6 +6,22 @@
     <description>家庭学習用英語教材</description>
 
     <item>
+      <title>(予習)第10週 瞬間英作文</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast-elementary-school/lesson010p.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast-elementary-school/lesson010p.mp3
+      </guid>
+    </item>
+    <item>
+      <title>(予習)第9週 瞬間英作文</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast-elementary-school/lesson009p.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast-elementary-school/lesson009p.mp3
+      </guid>
+    </item>
+    <item>
       <title>第6週 瞬間英作文</title>
       <enclosure
         url="https://kojimaxkei.github.io/english-podcast-elementary-school/lesson006.mp3"
