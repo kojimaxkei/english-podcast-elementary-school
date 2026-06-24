@@ -5,6 +5,14 @@
     <link>https://kojimaxkei.github.io/english-podcast-elementary-school/</link>
     <description>家庭学習用英語教材</description>
 
+    <item>
+      <title>(予習)第11週 瞬間英作文</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast-elementary-school/lesson011p.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast-elementary-school/lesson011p.mp3
+      </guid>
+    </item>
      <item>
       <title>英文の9割を3つの箱で解く</title>
       <enclosure
