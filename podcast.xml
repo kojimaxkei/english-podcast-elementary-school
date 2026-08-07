@@ -6,6 +6,14 @@
     <description>家庭学習用英語教材</description>
 
     <item>
+      <title>2026夏休み明けテスト対策</title>
+      <enclosure
+        url="https://kojimaxkei.github.io/english-podcast-elementary-school/2026summertest.mp3"
+        type="audio/mpeg" />
+      <guid>https://kojimaxkei.github.io/english-podcast-elementary-school/2026summertest.mp3
+      </guid>
+    </item>
+    <item>
       <title>第12週 瞬間英作文(授業)</title>
       <enclosure
         url="https://kojimaxkei.github.io/english-podcast-elementary-school/lesson012.mp3"
